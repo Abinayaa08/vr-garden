@@ -125,7 +125,7 @@ function createGroundMaterial() {
     const groundMaterial = new THREE.MeshStandardMaterial({
         color: FOREST_COLORS.groundColor,
         roughness: 0.8,
-        metalness: 0.2,
+        metalness: 0.3,
         flatShading: true
     });
 
